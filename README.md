@@ -13,4 +13,4 @@ This is a responsive landing page for a mobile application, built with HTML, CSS
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/app-landing-page.git
+   git clone https://github.com/Omlomate/app-landing-page
